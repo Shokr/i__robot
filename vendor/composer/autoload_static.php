@@ -7,6 +7,10 @@ namespace Composer\Autoload;
 class ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea
 {
     public static $prefixLengthsPsr4 = array (
+        'M' => 
+        array (
+            'MonkeyLearn\\' => 12,
+        ),
         'C' => 
         array (
             'Composer\\Installers\\' => 20,
@@ -14,9 +18,23 @@ class ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea
     );
 
     public static $prefixDirsPsr4 = array (
+        'MonkeyLearn\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/monkeylearn/monkeylearn-php/src',
+        ),
         'Composer\\Installers\\' => 
         array (
             0 => __DIR__ . '/..' . '/composer/installers/src/Composer/Installers',
+        ),
+    );
+
+    public static $prefixesPsr0 = array (
+        'D' => 
+        array (
+            'DetectLanguage' => 
+            array (
+                0 => __DIR__ . '/..' . '/detectlanguage/detectlanguage/lib',
+            ),
         ),
     );
 
@@ -29,6 +47,7 @@ class ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea::$prefixDirsPsr4;
+            $loader->prefixesPsr0 = ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea::$prefixesPsr0;
             $loader->classMap = ComposerStaticInitfff13387e09c74ddfefb3789cbbdc7ea::$classMap;
 
         }, null, ClassLoader::class);

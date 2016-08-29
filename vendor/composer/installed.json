@@ -163,5 +163,99 @@
             "networking",
             "twitter"
         ]
+    },
+    {
+        "name": "monkeylearn/monkeylearn-php",
+        "version": "0.3.0",
+        "version_normalized": "0.3.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/monkeylearn/monkeylearn-php.git",
+            "reference": "942ffcde9b943e5140ef0bdf41594c944f0161b2"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/monkeylearn/monkeylearn-php/zipball/942ffcde9b943e5140ef0bdf41594c944f0161b2",
+            "reference": "942ffcde9b943e5140ef0bdf41594c944f0161b2",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2016-05-02 20:24:44",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "MonkeyLearn\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "MonkeyLearn",
+                "email": "hello@monkeylearn.com",
+                "homepage": "http://monkeylearn.com"
+            }
+        ],
+        "description": "Official PHP client for the MonkeyLearn API.",
+        "homepage": "http://monkeylearn.com",
+        "keywords": [
+            "machine learning",
+            "monkeylearn",
+            "php"
+        ]
+    },
+    {
+        "name": "detectlanguage/detectlanguage",
+        "version": "2.0.1",
+        "version_normalized": "2.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/detectlanguage/detectlanguage-php.git",
+            "reference": "f22f5a802b11c3e6b3ea2187cfe07deaaa2cbc99"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/detectlanguage/detectlanguage-php/zipball/f22f5a802b11c3e6b3ea2187cfe07deaaa2cbc99",
+            "reference": "f22f5a802b11c3e6b3ea2187cfe07deaaa2cbc99",
+            "shasum": ""
+        },
+        "require": {
+            "ext-json": "*",
+            "php": ">=5.3.0"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "3.7.*"
+        },
+        "time": "2014-08-02 23:09:52",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "DetectLanguage": "lib/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Laurynas Butkus"
+            }
+        ],
+        "description": "Language Detection API PHP Client",
+        "homepage": "https://github.com/detectlanguage/detectlanguage-php",
+        "keywords": [
+            "api",
+            "client",
+            "detect",
+            "detection",
+            "language"
+        ]
     }
 ]
