@@ -7,5 +7,5 @@
 
 ### Sentiment Analysis for English tweets
 
-![Positive](https://github.com/Shokr/i__robot/blob/master/01.png)
-![Negative](https://github.com/Shokr/i__robot/blob/master/02.png)
+![Positive](https://github.com/Shokr/i__robot/blob/master/01.PNG)
+![Negative](https://github.com/Shokr/i__robot/blob/master/02.PNG)
