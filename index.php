@@ -34,7 +34,13 @@ $cb->setReturnFormat(CODEBIRD_RETURNFORMAT_ARRAY);
 
 $cb->setToken('769873996049444864-vQrEcatGcwMFwjM6bPszbG0FbFODqHO','ZJsPfoydgDc82fhfRPYZ4zrnU3Sa5HBfYXGHZTfPSOXvN');
 
-$mentions = $cb->statuses_mentionsTimeline();
+
+// Check last tweet id to reply to newest only.
+
+$lastId = $db->query("SELECT * FROM tracking ORDER BY twitter_id DESC LIMIT 1")->fetch(PDO::FETCH_OBJ);
+
+
+$mentions = $cb->statuses_mentionsTimeline($lastId ? 'since_id' . $lastId->twitter_id : '');
 
 
 if (!isset($mentions[0])) {
@@ -146,11 +152,23 @@ foreach ($tweets as $index => $tweet) {
             break;
     }
 
-    //var_dump($emojiSet);
+
+    // Reply
+
+    $cb->statuses_update([
+        'status' => '@' . $tweet['user_screen_name']. ''. html_entity_decode($emojiSet[rand(0, count($emojiSet)-1)], 0, 'UTF-8'),
+        'in_reply_to_status_id' => $tweet['id'],
+    ]);
+
+
+    // tracking
+
+    $track = $db->prepare("INSERT INTO tracking (twitter_id) VALUES (:twitterId)");
+
+    $track->execute([
+        'twitterId' => $tweet['id'],
+    ]);
+
+
 }
 
-// tracking
-
-
-
-// reply
