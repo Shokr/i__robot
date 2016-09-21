@@ -13,6 +13,10 @@ use Codebird\Codebird;
 
 require 'vendor/autoload.php';
 
+
+// Call DB
+$db = new PDO('mysql:host=localhost;dbname=sentibot', 'root', '');
+
 // MonkeyLearn api
 $ml = new MonkeyLearn('80b38f6f41a00c09913561c37188b4d58ccfea02');
 
@@ -145,5 +149,8 @@ foreach ($tweets as $index => $tweet) {
     //var_dump($emojiSet);
 }
 
-// track
+// tracking
+
+
+
 // reply

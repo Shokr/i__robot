@@ -2,134 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c3f4e90-793c-48f8-bb97-45728db99d24" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/AglInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/AimeosInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/AnnotateCmsInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/AsgardInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/BaseInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/BitrixInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/BonefishInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/CakePHPInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ChefInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ClanCatsFrameworkInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/CodeIgniterInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/Concrete5Installer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/CraftInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/CroogoInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/DecibelInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/DokuWikiInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/DolibarrInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/DrupalInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ElggInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ExpressionEngineInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/FuelInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/FuelphpInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/GravInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/HuradInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ImageCMSInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/Installer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/JoomlaInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/KirbyInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/KodiCMSInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/KohanaInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/LaravelInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/LithiumInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MODULEWorkInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MODXEvoInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MagentoInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MakoInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MauticInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MediaWikiInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MicroweberInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/MoodleInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/OctoberInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/OxidInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PPIInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PhiftyInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PhpBBInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PimcoreInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PiwikInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/Plugin.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PrestashopInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/PuppetInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/RadPHPInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/RedaxoInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/RoundcubeInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/SMFInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ShopwareInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/SilverStripeInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/Symfony1Installer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/TYPO3CmsInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/TYPO3FlowInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/TheliaInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/TuskInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/WHMCSInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/WolfCMSInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/WordPressInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ZendInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/Composer/Installers/ZikulaInstaller.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/src/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/AsgardInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/CakePHPInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/CraftInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/DokuWikiInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/GravInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/InstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/MediaWikiInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/OctoberInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/PimcoreInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/PiwikInstallerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/Composer/Installers/Test/TestCase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/composer/installers/tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/phpunit.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/phpunit.xml.hhvm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/src/cacert.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/src/codebird.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/codebirdm.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/codebirdt.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/constant_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/curl_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/detection_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/environment_test.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/media_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/oauth_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/replyparse_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/requestparse_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/returnformat_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/setter_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/signing_tests.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jublonet/codebird-php/test/singleton_tests.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="i__robot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -153,14 +27,14 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="148" column="8" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
+            <state relative-caret-position="-1239">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
               <folding>
                 <element signature="e#6#102#0#PHP" expanded="true" />
                 <element signature="e#104#138#0#PHP" expanded="true" />
-                <element signature="e#840#1081#0#PHP" expanded="false" />
-                <element signature="e#1101#1189#0#PHP" expanded="false" />
-                <element signature="e#1205#1463#0#PHP" expanded="false" />
+                <element signature="e#920#1161#0#PHP" expanded="false" />
+                <element signature="e#1181#1269#0#PHP" expanded="false" />
+                <element signature="e#1285#1543#0#PHP" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -189,10 +63,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -219,6 +92,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,7 +114,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -312,17 +185,19 @@
       <workItem from="1472475658344" duration="965000" />
       <workItem from="1472476646862" duration="3786000" />
       <workItem from="1472496555240" duration="6138000" />
+      <workItem from="1474456650140" duration="616000" />
+      <workItem from="1474460142436" duration="966000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10889000" />
+    <option name="totallyTimeSpent" value="12471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5007342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -364,9 +239,9 @@
           <folding>
             <element signature="e#6#102#0#PHP" expanded="true" />
             <element signature="e#104#138#0#PHP" expanded="true" />
-            <element signature="e#840#1081#0#PHP" expanded="false" />
-            <element signature="e#1101#1189#0#PHP" expanded="false" />
-            <element signature="e#1205#1463#0#PHP" expanded="false" />
+            <element signature="e#920#1161#0#PHP" expanded="false" />
+            <element signature="e#1181#1269#0#PHP" expanded="false" />
+            <element signature="e#1285#1543#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -378,9 +253,23 @@
           <folding>
             <element signature="e#6#102#0#PHP" expanded="true" />
             <element signature="e#104#138#0#PHP" expanded="true" />
-            <element signature="e#840#1081#0#PHP" expanded="false" />
-            <element signature="e#1101#1189#0#PHP" expanded="false" />
-            <element signature="e#1205#1463#0#PHP" expanded="false" />
+            <element signature="e#920#1161#0#PHP" expanded="false" />
+            <element signature="e#1181#1269#0#PHP" expanded="false" />
+            <element signature="e#1285#1543#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#102#0#PHP" expanded="true" />
+            <element signature="e#104#138#0#PHP" expanded="true" />
+            <element signature="e#920#1161#0#PHP" expanded="false" />
+            <element signature="e#1181#1269#0#PHP" expanded="false" />
+            <element signature="e#1285#1543#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -395,14 +284,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="148" column="8" selection-start-line="148" selection-start-column="8" selection-end-line="148" selection-end-column="8" />
+        <state relative-caret-position="-1239">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
           <folding>
             <element signature="e#6#102#0#PHP" expanded="true" />
             <element signature="e#104#138#0#PHP" expanded="true" />
-            <element signature="e#840#1081#0#PHP" expanded="false" />
-            <element signature="e#1101#1189#0#PHP" expanded="false" />
-            <element signature="e#1205#1463#0#PHP" expanded="false" />
+            <element signature="e#920#1161#0#PHP" expanded="false" />
+            <element signature="e#1181#1269#0#PHP" expanded="false" />
+            <element signature="e#1285#1543#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
